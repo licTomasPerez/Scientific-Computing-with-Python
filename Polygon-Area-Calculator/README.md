@@ -1,4 +1,4 @@
-## Boilerplate Polygon Area Calculator
+# Boilerplate Polygon Area Calculator
 
 This is my commented attempted solution to FreeCodeCamp's Scientific-Computing With Python's fourth project: Polygon Area Calculator
 
