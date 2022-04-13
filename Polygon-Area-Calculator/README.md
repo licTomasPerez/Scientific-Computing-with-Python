@@ -1,3 +1,7 @@
+## Boilerplate Polygon Area Calculator
+
+This is my commented attempted solution to FreeCodeCamp's Scientific-Computing With Python's fourth project: Polygon Area Calculator
+
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
