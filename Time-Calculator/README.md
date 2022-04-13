@@ -1,3 +1,7 @@
+# Time Calculator
+
+My solution to the Time Calculator Project for FreeCodeCamp's Scientific Computing with Python.
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
